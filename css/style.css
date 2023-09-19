@@ -1,0 +1,37 @@
+body {
+    background-color: #f6e7b9;
+    }
+
+h1 {
+    font-size: 60px;
+    font-family: "Arial";
+    text-align: center;
+    }
+
+h2 {
+    font-size: 40px;
+    font-family: "Arial";
+    color: #4963b8;
+    }
+h3 {
+    font-size: 40px;
+    font-family: "Arial";
+    color: #4963b8;
+    }
+
+p {
+    line-height: 1.5;
+  }
+
+img {
+    border: 5px solid #768AE4;
+    padding: 10px;
+    margin: 10px;
+    border-top-right-radius: 30px;
+    }
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+    }
+
